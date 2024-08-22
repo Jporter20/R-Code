@@ -1,5 +1,5 @@
 # R-Code
-Previous professional R code
+Previous professional R code used to manipulate data from excel, csv or databases, search customer comments, plot trends or forecasting and export results and findings to stakeholders.
 
 sms_transactions.R
 This code was to assist the customer service team with see text message volumes related to text message marketing campaigns.
